@@ -4,6 +4,6 @@ public class sample
     {
         System.out.println("hello World");
         System.out.println("my magga");
-        System.out.println("mnfjaj");
+        System.out.println("Magga is crying");
     }
 }
